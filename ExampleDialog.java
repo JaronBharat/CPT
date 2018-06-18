@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.EditText;
 
 /**
- * Created by Ernest on 2018-01-25.
+ * @Jaron
  */
 
 public class ExampleDialog extends AppCompatDialogFragment {
